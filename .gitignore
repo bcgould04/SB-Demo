@@ -93,6 +93,7 @@ buildNumber.properties
 .idea/misc.xml
 .idea/vcs.xml
 .idea/.gitignore
+.idea/*
 
 
 
